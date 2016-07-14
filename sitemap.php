@@ -1,4 +1,7 @@
 <?php
+//------------------------------------------------------------//
+//             Git & GitHub - Partie 2 Activité               //
+//------------------------------------------------------------//
 // CONNEXION A LA BASE
 //$mysqli = new mysqli("server","user","password","database");
 $mysqli = new mysqli("localhost","root","","xml_rss");
