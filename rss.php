@@ -1,4 +1,5 @@
 <?php
+//Git & GitHub - Partie 2 Activité
 //---------------------------------------------------------------------------------------//
 // Generation  automatique d'un flux RSS
 //
